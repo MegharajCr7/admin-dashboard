@@ -1,2 +1,2 @@
 # admin-dashboard
-basic admin dashboard using core-java concepts
+Basic admin dashboard using core-java concepts
